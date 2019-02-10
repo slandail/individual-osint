@@ -1,8 +1,8 @@
 [https://www.pluralsight.com/courses/osint-gathering-performing-employee-targets]
 
-=======================================
+=
 Gathering Physical Location Information
-=======================================
+=
 
 Cyberstalkking [https://en.wikipedia.org/wiki/Cyberstalking]
 
