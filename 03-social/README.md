@@ -1,6 +1,5 @@
 [https://www.pluralsight.com/courses/osint-gathering-performing-employee-targets]
 
-==================================
 Performing Social Network Analysis
 ==================================
 
