@@ -1,6 +1,5 @@
 [https://www.pluralsight.com/courses/osint-gathering-performing-employee-targets]
 
-==========================================
 Identifying the Target’s Internet Presence
 ==========================================
 
